@@ -1,5 +1,5 @@
 # 💫 About Me:
-# 👋 Hi, I'm Sheeba Imdad  <br>### **Full-Stack Developer | MERN Stack & NestJS Expert | Cloud-Native**<br><br>🚀 **Result-oriented Full-Stack Developer** with **5+ years of experience** building scalable, high-performance enterprise applications. Specializing in cloud-native architectures, microservices, and robust backend ecosystems, I have successfully delivered high-impact solutions across **FinTech, E-commerce, Government, and Web3 sectors** globally (UAE, Netherlands, Canada, Nigeria, and India).<br><br>
+# 👋 Hi, I'm Sheeba Imdad  <br>### **Full-Stack Developer | MERN Stack & NestJS Expert | Cloud-Native**<br><br>🚀
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sheeba-imdad) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sheebaimdad04@gmail.com) 
 
@@ -14,6 +14,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=SheebaImdad&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-[![](https://komarev.com/ghpvc/?username=SheebaImdad&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=SheebaImdad&icon=0&color=0)](https://sheeba-imdad-portfolio.vercel.app)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
